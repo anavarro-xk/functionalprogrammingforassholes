@@ -20,9 +20,10 @@ ___
 
 Lots of thanks to @mpjme, a source of great inspiration and documentation for doing this.
 Other sources of documentation that helped me with this course are:
-- javascriptissexy.com :[Higer-order-function](http://javascriptissexy.com/tag/higher-order-functions/)
+- javascriptissexy.com :[Higher-order-function](http://javascriptissexy.com/tag/higher-order-functions/)
 - javascriptissexy.com : [Understanding Javascript Closures with Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - James Sinclair Blog : [Intro to Functional Programming](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
+- adequatelygood.com: [Javascript Scoping and Hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 
 
 
